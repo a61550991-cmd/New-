@@ -1,0 +1,6 @@
+{
+  "name": "Yu Camera",
+  "description": "Aplikasi kamera Android profesional terinspirasi LMC (Google Camera) dengan preview kamera real-time, mode lengkap, dan arsitektur Kotlin Jetpack Compose CameraX.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
